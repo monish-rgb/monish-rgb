@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - :school: I am a graduate at Amrita School Of Computing of Computer Science Engineering.
 - :technologist: I love using Software as a solution for every `Problem` and try to overcome the problems.
-- :thinking: This is [MY RESUME]().
+- :thinking: This is [MY RESUME](https://resume.io/r/Z1FTZGLN9).
 - :nerd_face: Always `learning new technologies`
 
 <br>
