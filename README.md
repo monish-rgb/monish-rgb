@@ -26,7 +26,7 @@ I thrive in collaborative environments where I can apply my technical knowledge 
 
 
 ## 📈 Activity Graph
-![Your activity graph](https://activity-graph.herokuapp.com/graph?username=monish-rgb&theme=react-dark)
+![Your activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-rgb&theme=react-dark)
 
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=monish-rgb&theme=nord&column=7)
@@ -37,7 +37,7 @@ I thrive in collaborative environments where I can apply my technical knowledge 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devineni.monish@gmail.com)
 
 ## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/monish-rgb/count.svg)
 
 ---
 
