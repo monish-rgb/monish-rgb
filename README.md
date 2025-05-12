@@ -26,10 +26,10 @@ I thrive in collaborative environments where I can apply my technical knowledge 
 
 
 ## 📈 Activity Graph
-![Your activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![Your activity graph](https://activity-graph.herokuapp.com/graph?username=monish-rgb&theme=react-dark)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=monish-rgb&theme=nord&column=7)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-devineni/)
