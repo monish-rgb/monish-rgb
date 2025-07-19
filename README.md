@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Monish Devineni**
 
 ## 🚀 About Me
-Computer Science MS graduate passionate about the intersection of cloud architecture, artificial intelligence, and full stack development. With a solid foundation in distributed systems and machine learning algorithms, I build scalable applications that leverage the power of AI to solve real-world problems. My expertise spans cloud platforms (AWS/Azure/GCP), modern web frameworks, and ML/AI technologies.
+Computer Science MS graduate passionate about the intersection of cloud architecture, artificial intelligence, and full stack development. With a solid foundation in AI/ML with hands-on experience in designing, deploying, and optimizing scalable machine learning systems across NLP, computer vision and predictive modeling domains, with a strong emphasis on production-readiness and measurable business outcomes. I build scalable applications that leverage the power of AI to solve real-world problems. My expertise spans cloud platforms (AWS/Azure/GCP) and ML/AI technologies.
 
 I thrive in collaborative environments where I can apply my technical knowledge while continuously learning emerging technologies.
 
