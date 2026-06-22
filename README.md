@@ -8,7 +8,7 @@ I specialize in LLM inference optimization, GPU computing, and deploying product
 
 ## 🧠 About Me
 
-- 🎓 MS Computer Science — **Florida Atlantic University**
+- 🎓 MS Computer Science - **Florida Atlantic University**
 - 🔭 Currently working on **LLM inference optimization** (vLLM, SGLang) and **CUDA kernel development**
 - 🌱 Deep-diving into **distributed training**, **FSDP**, and **RL systems**
 - 💼 Open to **AI/ML Engineer** roles — [hire me!](https://www.linkedin.com/in/monish-devineni/)
