@@ -128,39 +128,69 @@ I bridge the gap between **high-level Agentic AI orchestration** and **low-level
 
 ---
 
-## 📊 GitHub Analytics & Engineering Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=monish-rgb&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=8&include_all_commits=true&count_private=true" height="175" alt="Monish's GitHub Stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=monish-rgb&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&include_all_commits=true&count_private=true&icon_color=38BDF8&title_color=38BDF8&ring_color=7C3AED" />
+  <img src="https://github-stats-extended.vercel.app/api?username=monish-rgb&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&include_all_commits=true&count_private=true&icon_color=38BDF8&title_color=38BDF8&ring_color=7C3AED" height="180" alt="GitHub Stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monish-rgb&theme=tokyonight&utcOffset=-4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monish-rgb&theme=tokyonight&utcOffset=-4" height="180" alt="Coding Activity" />
+</picture>
+
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com?user=monish-rgb&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=8" alt="GitHub Streak Stats" />
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=monish-rgb&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&ring=7C3AED&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=38BDF8" alt="Streak Stats" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-rgb&theme=tokyonight" alt="GitHub Profile Summary" />
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-rgb&theme=tokyonight" alt="Contribution Heatmap" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monish-rgb/monish-rgb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monish-rgb/monish-rgb/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/monish-rgb/monish-rgb/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/monish-devineni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devineni.monish@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/monish-rgb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/monish-rgb/MyPortfolio">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-devineni/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devineni.monish@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monish-rgb)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/monish-rgb/MyPortfolio)
+  [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+</div>
+
+<div align="center">
   <sub>⚡ Focused on AI/ML, Agentic Systems & Evaluation Harness engineering. Open to full-time roles & high-leverage open-source collaborations.</sub>
-</p>
+  <br><br>
+  <a href="https://hits.sh/github.com/monish-rgb/">
+    <img src="https://hits.sh/github.com/monish-rgb.svg?view=today-total&style=flat-square&label=Profile%20Views&extraPrefix=%F0%9F%91%81%EF%B8%8F%20&color=10b981" alt="Profile Views"/>
+  </a>
+</div>
+
