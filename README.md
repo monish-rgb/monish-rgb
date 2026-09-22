@@ -132,7 +132,6 @@ I bridge the gap between **high-level Agentic AI orchestration** and **low-level
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=monish-rgb&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=8&include_all_commits=true&count_private=true" height="175" alt="Monish's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=monish-rgb&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=8&langs_count=6" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
